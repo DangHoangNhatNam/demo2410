@@ -16,10 +16,11 @@ namespace demo2410
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+
+        private void button2_Click(object sender, EventArgs e)
         {
-            int a;
-            int b;
+            int a, b, c;
+
         }
     }
 }
