@@ -15,5 +15,10 @@ namespace demo2410
         {
             InitializeComponent();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            int a, b, c;
+        }
     }
 }
